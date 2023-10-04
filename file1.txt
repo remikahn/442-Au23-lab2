@@ -1,4 +1,4 @@
 Hi everyone welcome to INFO 442.
-Merge conflicts are superrrr annoying.
+Merge conflicts are superrrr very annoying.
 Hopefully rebasing can help!
 Adding a line 4
